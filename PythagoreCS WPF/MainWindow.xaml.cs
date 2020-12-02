@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 using System.Windows;
 using System.Windows.Controls;
 
@@ -14,6 +15,7 @@ namespace PythagoreCS_WPF
             InitializeComponent();
         }
         
+        CultureInfo ci = CultureInfo.InstalledUICulture;
         private static bool Calcul = true; // true = calcul hypotenuse
         
         private void Button_Click(object sender, System.Windows.RoutedEventArgs e)
