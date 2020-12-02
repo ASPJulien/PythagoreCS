@@ -1,0 +1,15 @@
+C:\Users\Julien\RiderProjects\PythagoreCS WPF\PythagoreCS WPF\bin\Debug\PythagoreCS_WPF.exe.config
+C:\Users\Julien\RiderProjects\PythagoreCS WPF\PythagoreCS WPF\bin\Debug\PythagoreCS_WPF.exe
+C:\Users\Julien\RiderProjects\PythagoreCS WPF\PythagoreCS WPF\bin\Debug\PythagoreCS_WPF.pdb
+C:\Users\Julien\RiderProjects\PythagoreCS WPF\PythagoreCS WPF\obj\Debug\PythagoreCS WPF.csprojAssemblyReference.cache
+C:\Users\Julien\RiderProjects\PythagoreCS WPF\PythagoreCS WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Julien\RiderProjects\PythagoreCS WPF\PythagoreCS WPF\obj\Debug\App.g.cs
+C:\Users\Julien\RiderProjects\PythagoreCS WPF\PythagoreCS WPF\obj\Debug\PythagoreCS_WPF_MarkupCompile.cache
+C:\Users\Julien\RiderProjects\PythagoreCS WPF\PythagoreCS WPF\obj\Debug\PythagoreCS_WPF_MarkupCompile.lref
+C:\Users\Julien\RiderProjects\PythagoreCS WPF\PythagoreCS WPF\obj\Debug\MainWindow.baml
+C:\Users\Julien\RiderProjects\PythagoreCS WPF\PythagoreCS WPF\obj\Debug\PythagoreCS_WPF.g.resources
+C:\Users\Julien\RiderProjects\PythagoreCS WPF\PythagoreCS WPF\obj\Debug\PythagoreCS_WPF.Properties.Resources.resources
+C:\Users\Julien\RiderProjects\PythagoreCS WPF\PythagoreCS WPF\obj\Debug\PythagoreCS WPF.csproj.GenerateResource.cache
+C:\Users\Julien\RiderProjects\PythagoreCS WPF\PythagoreCS WPF\obj\Debug\PythagoreCS WPF.csproj.CoreCompileInputs.cache
+C:\Users\Julien\RiderProjects\PythagoreCS WPF\PythagoreCS WPF\obj\Debug\PythagoreCS_WPF.exe
+C:\Users\Julien\RiderProjects\PythagoreCS WPF\PythagoreCS WPF\obj\Debug\PythagoreCS_WPF.pdb
