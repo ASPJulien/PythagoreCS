@@ -1,4 +1,4 @@
-# PhytagoreCS
+# PythagoreCS
 
 # >v2.0 uses Pythagore WPF.sln
   
