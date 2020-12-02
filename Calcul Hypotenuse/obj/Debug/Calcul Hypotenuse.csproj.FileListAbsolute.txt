@@ -1,0 +1,6 @@
+C:\Users\Julien\RiderProjects\Pythagore\Calcul Hypotenuse\bin\Debug\Calcul Hypotenuse.exe
+C:\Users\Julien\RiderProjects\Pythagore\Calcul Hypotenuse\bin\Debug\Calcul Hypotenuse.pdb
+C:\Users\Julien\RiderProjects\Pythagore\Calcul Hypotenuse\obj\Debug\Calcul Hypotenuse.csprojAssemblyReference.cache
+C:\Users\Julien\RiderProjects\Pythagore\Calcul Hypotenuse\obj\Debug\Calcul Hypotenuse.csproj.CoreCompileInputs.cache
+C:\Users\Julien\RiderProjects\Pythagore\Calcul Hypotenuse\obj\Debug\Calcul Hypotenuse.exe
+C:\Users\Julien\RiderProjects\Pythagore\Calcul Hypotenuse\obj\Debug\Calcul Hypotenuse.pdb

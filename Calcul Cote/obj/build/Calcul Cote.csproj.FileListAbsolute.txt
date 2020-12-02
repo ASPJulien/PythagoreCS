@@ -1,0 +1,4 @@
+C:\Users\Julien\RiderProjects\Pythagore\Calcul Cote\bin\build\Calcul_Cote.exe
+C:\Users\Julien\RiderProjects\Pythagore\Calcul Cote\obj\build\Calcul Cote.csprojAssemblyReference.cache
+C:\Users\Julien\RiderProjects\Pythagore\Calcul Cote\obj\build\Calcul Cote.csproj.CoreCompileInputs.cache
+C:\Users\Julien\RiderProjects\Pythagore\Calcul Cote\obj\build\Calcul_Cote.exe
