@@ -1,6 +1,6 @@
 # PythagoreCS
 
-# >v2.0 uses Pythagore WPF.sln
+# Calculate the Pythagore's theorem
   
   Todo list:
      +  Add language support
